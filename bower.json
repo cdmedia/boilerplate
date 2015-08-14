@@ -1,0 +1,18 @@
+{
+    "name": "Boilerplate",
+    "description": "A simple boilerplate to get started.",
+    "version": "1.0.0",
+    "homepage": "http://cdmedia.github.io/boilerplate",
+    "repository": {
+	    "type": "git",
+	    "url": "https://github.com/cdmedia/boilerplate"
+	},
+    "main": "index.html",
+    "license": "MIT",
+    "__dependencies": {
+        "jquery": "latest",
+        "skeleton": "~2.0.4",
+        "featherlight": "~1.2.0",
+        "fontawesome": "latest"
+    }
+}
